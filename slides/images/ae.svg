@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 500" style="enable-background:new 0 0 600 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D1D1D1;stroke:#6D6D6D;stroke-miterlimit:10;}
+	.st1{opacity:0.5;fill:#B5B5B5;stroke:#606060;stroke-miterlimit:10;}
+	.st2{stroke:#000000;}
+	.st3{font-family:'Times-Roman';}
+	.st4{font-size:2px;}
+	.st5{fill:none;stroke:#000000;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:12px;}
+	.st8{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<rect x="38.3" y="29" class="st0" width="280" height="442"/>
+<rect x="281.9" y="29" class="st1" width="285.9" height="442"/>
+<g id="graph0" transform="scale(1 1) rotate(0) translate(4 418)">
+	<title>nn</title>
+	<g id="node1">
+		<title>l0n0</title>
+		<ellipse class="st2" cx="80" cy="-33" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -32.4)" class="st3 st4">l0n0</text>
+	</g>
+	<g id="node9">
+		<title>l1n0</title>
+		<ellipse class="st2" cx="152" cy="-303" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 150.2222 -302.4)" class="st3 st4">l1n0</text>
+	</g>
+	<g id="edge1">
+		<title>l0n0-&gt;l1n0</title>
+		<path class="st5" d="M85.5-50.3c12.6-48.8,48.5-187,61.1-235.5"/>
+	</g>
+	<g id="node10">
+		<title>l1n1</title>
+		<ellipse class="st2" cx="152" cy="-249" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 150.2222 -248.4)" class="st3 st4">l1n1</text>
+	</g>
+	<g id="edge2">
+		<title>l0n0-&gt;l1n1</title>
+		<path class="st5" d="M86.5-49.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="node11">
+		<title>l1n2</title>
+		<ellipse class="st2" cx="152" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 150.2222 -194.4)" class="st3 st4">l1n2</text>
+	</g>
+	<g id="edge3">
+		<title>l0n0-&gt;l1n2</title>
+		<path class="st5" d="M88.1-49.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="node12">
+		<title>l1n3</title>
+		<ellipse class="st2" cx="152" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 150.2222 -140.4)" class="st3 st4">l1n3</text>
+	</g>
+	<g id="edge4">
+		<title>l0n0-&gt;l1n3</title>
+		<path class="st5" d="M90.7-48c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="node13">
+		<title>l1n4</title>
+		<ellipse class="st2" cx="152" cy="-87" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 150.2222 -86.4)" class="st3 st4">l1n4</text>
+	</g>
+	<g id="edge5">
+		<title>l0n0-&gt;l1n4</title>
+		<path class="st5" d="M94.8-43.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node14">
+		<title>l1n5</title>
+		<ellipse class="st2" cx="152" cy="-33" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 150.2222 -32.4)" class="st3 st4">l1n5</text>
+	</g>
+	<g id="edge6">
+		<title>l0n0-&gt;l1n5</title>
+		<path class="st5" d="M98.3-33c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="node2">
+		<title>l0n1</title>
+		<ellipse class="st2" cx="80" cy="21" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 21.6)" class="st3 st4">l0n1</text>
+	</g>
+	<g id="edge7">
+		<title>l0n1-&gt;l1n0</title>
+		<path class="st5" d="M84.8,3.6c12.2-56.3,50.3-232.7,62.5-289.1"/>
+	</g>
+	<g id="edge8">
+		<title>l0n1-&gt;l1n1</title>
+		<path class="st5" d="M85.5,3.7c12.6-48.8,48.5-187,61.1-235.5"/>
+	</g>
+	<g id="edge9">
+		<title>l0n1-&gt;l1n2</title>
+		<path class="st5" d="M86.5,4.1c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge10">
+		<title>l0n1-&gt;l1n3</title>
+		<path class="st5" d="M88.1,4.6c13.4-31,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge11">
+		<title>l0n1-&gt;l1n4</title>
+		<path class="st5" d="M90.7,6c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge12">
+		<title>l0n1-&gt;l1n5</title>
+		<path class="st5" d="M94.8,10.3c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node3">
+		<title>l0n2</title>
+		<ellipse class="st2" cx="80" cy="-357" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -356.4)" class="st3 st4">l0n2</text>
+	</g>
+	<g id="edge13">
+		<title>l0n2-&gt;l1n0</title>
+		<path class="st5" d="M94.8-346.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge14">
+		<title>l0n2-&gt;l1n1</title>
+		<path class="st5" d="M90.7-342c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge15">
+		<title>l0n2-&gt;l1n2</title>
+		<path class="st5" d="M88.1-340.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge16">
+		<title>l0n2-&gt;l1n3</title>
+		<path class="st5" d="M86.5-340.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="edge17">
+		<title>l0n2-&gt;l1n4</title>
+		<path class="st5" d="M85.5-339.7c12.6,48.8,48.5,187,61.1,235.5"/>
+	</g>
+	<g id="edge18">
+		<title>l0n2-&gt;l1n5</title>
+		<path class="st5" d="M84.8-339.6c12.2,56.3,50.3,232.7,62.5,289.1"/>
+	</g>
+	<g id="node4">
+		<title>l0n3</title>
+		<ellipse class="st2" cx="80" cy="-303" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -302.4)" class="st3 st4">l0n3</text>
+	</g>
+	<g id="edge19">
+		<title>l0n3-&gt;l1n0</title>
+		<path class="st5" d="M98.3-303c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge20">
+		<title>l0n3-&gt;l1n1</title>
+		<path class="st5" d="M94.8-292.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge21">
+		<title>l0n3-&gt;l1n2</title>
+		<path class="st5" d="M90.7-288c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge22">
+		<title>l0n3-&gt;l1n3</title>
+		<path class="st5" d="M88.1-286.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge23">
+		<title>l0n3-&gt;l1n4</title>
+		<path class="st5" d="M86.5-286.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="edge24">
+		<title>l0n3-&gt;l1n5</title>
+		<path class="st5" d="M85.5-285.7c12.6,48.8,48.5,187,61.1,235.5"/>
+	</g>
+	<g id="node5">
+		<title>l0n4</title>
+		<ellipse class="st2" cx="80" cy="-249" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -248.4)" class="st3 st4">l0n4</text>
+	</g>
+	<g id="edge25">
+		<title>l0n4-&gt;l1n0</title>
+		<path class="st5" d="M94.8-259.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge26">
+		<title>l0n4-&gt;l1n1</title>
+		<path class="st5" d="M98.3-249c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge27">
+		<title>l0n4-&gt;l1n2</title>
+		<path class="st5" d="M94.8-238.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge28">
+		<title>l0n4-&gt;l1n3</title>
+		<path class="st5" d="M90.7-234c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge29">
+		<title>l0n4-&gt;l1n4</title>
+		<path class="st5" d="M88.1-232.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge30">
+		<title>l0n4-&gt;l1n5</title>
+		<path class="st5" d="M86.5-232.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="node6">
+		<title>l0n5</title>
+		<ellipse class="st2" cx="80" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -194.4)" class="st3 st4">l0n5</text>
+	</g>
+	<g id="edge31">
+		<title>l0n5-&gt;l1n0</title>
+		<path class="st5" d="M90.7-210c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge32">
+		<title>l0n5-&gt;l1n1</title>
+		<path class="st5" d="M94.8-205.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge33">
+		<title>l0n5-&gt;l1n2</title>
+		<path class="st5" d="M98.3-195c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge34">
+		<title>l0n5-&gt;l1n3</title>
+		<path class="st5" d="M94.8-184.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge35">
+		<title>l0n5-&gt;l1n4</title>
+		<path class="st5" d="M90.7-180c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge36">
+		<title>l0n5-&gt;l1n5</title>
+		<path class="st5" d="M88.1-178.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="node7">
+		<title>l0n6</title>
+		<ellipse class="st2" cx="80" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -140.4)" class="st3 st4">l0n6</text>
+	</g>
+	<g id="edge37">
+		<title>l0n6-&gt;l1n0</title>
+		<path class="st5" d="M88.1-157.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge38">
+		<title>l0n6-&gt;l1n1</title>
+		<path class="st5" d="M90.7-156c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge39">
+		<title>l0n6-&gt;l1n2</title>
+		<path class="st5" d="M94.8-151.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge40">
+		<title>l0n6-&gt;l1n3</title>
+		<path class="st5" d="M98.3-141c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge41">
+		<title>l0n6-&gt;l1n4</title>
+		<path class="st5" d="M94.8-130.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge42">
+		<title>l0n6-&gt;l1n5</title>
+		<path class="st5" d="M90.7-126c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="node8">
+		<title>l0n7</title>
+		<ellipse class="st2" cx="80" cy="-87" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 78.2222 -86.4)" class="st3 st4">l0n7</text>
+	</g>
+	<g id="edge43">
+		<title>l0n7-&gt;l1n0</title>
+		<path class="st5" d="M86.5-103.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge44">
+		<title>l0n7-&gt;l1n1</title>
+		<path class="st5" d="M88.1-103.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge45">
+		<title>l0n7-&gt;l1n2</title>
+		<path class="st5" d="M90.7-102c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge46">
+		<title>l0n7-&gt;l1n3</title>
+		<path class="st5" d="M94.8-97.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge47">
+		<title>l0n7-&gt;l1n4</title>
+		<path class="st5" d="M98.3-87c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge48">
+		<title>l0n7-&gt;l1n5</title>
+		<path class="st5" d="M94.8-76.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="node15">
+		<title>l2n0</title>
+		<ellipse class="st2" cx="224" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 222.2222 -140.4)" class="st3 st4">l2n0</text>
+	</g>
+	<g id="edge49">
+		<title>l1n0-&gt;l2n0</title>
+		<path class="st5" d="M160.1-286.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="node16">
+		<title>l2n1</title>
+		<ellipse class="st2" cx="224" cy="-87" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 222.2222 -86.4)" class="st3 st4">l2n1</text>
+	</g>
+	<g id="edge50">
+		<title>l1n0-&gt;l2n1</title>
+		<path class="st5" d="M158.5-286.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="node17">
+		<title>l2n2</title>
+		<ellipse class="st2" cx="224" cy="-249" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 222.2222 -248.4)" class="st3 st4">l2n2</text>
+	</g>
+	<g id="edge51">
+		<title>l1n0-&gt;l2n2</title>
+		<path class="st5" d="M166.8-292.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="node18">
+		<title>l2n3</title>
+		<ellipse class="st2" cx="224" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 222.2222 -194.4)" class="st3 st4">l2n3</text>
+	</g>
+	<g id="edge52">
+		<title>l1n0-&gt;l2n3</title>
+		<path class="st5" d="M162.7-288c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge53">
+		<title>l1n1-&gt;l2n0</title>
+		<path class="st5" d="M162.7-234c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge54">
+		<title>l1n1-&gt;l2n1</title>
+		<path class="st5" d="M160.1-232.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge55">
+		<title>l1n1-&gt;l2n2</title>
+		<path class="st5" d="M170.3-249c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge56">
+		<title>l1n1-&gt;l2n3</title>
+		<path class="st5" d="M166.8-238.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge57">
+		<title>l1n2-&gt;l2n0</title>
+		<path class="st5" d="M166.8-184.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge58">
+		<title>l1n2-&gt;l2n1</title>
+		<path class="st5" d="M162.7-180c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge59">
+		<title>l1n2-&gt;l2n2</title>
+		<path class="st5" d="M166.8-205.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge60">
+		<title>l1n2-&gt;l2n3</title>
+		<path class="st5" d="M170.3-195c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge61">
+		<title>l1n3-&gt;l2n0</title>
+		<path class="st5" d="M170.3-141c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge62">
+		<title>l1n3-&gt;l2n1</title>
+		<path class="st5" d="M166.8-130.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge63">
+		<title>l1n3-&gt;l2n2</title>
+		<path class="st5" d="M162.7-156c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge64">
+		<title>l1n3-&gt;l2n3</title>
+		<path class="st5" d="M166.8-151.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge65">
+		<title>l1n4-&gt;l2n0</title>
+		<path class="st5" d="M166.8-97.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge66">
+		<title>l1n4-&gt;l2n1</title>
+		<path class="st5" d="M170.3-87c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge67">
+		<title>l1n4-&gt;l2n2</title>
+		<path class="st5" d="M160.1-103.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge68">
+		<title>l1n4-&gt;l2n3</title>
+		<path class="st5" d="M162.7-102c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge69">
+		<title>l1n5-&gt;l2n0</title>
+		<path class="st5" d="M162.7-48c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge70">
+		<title>l1n5-&gt;l2n1</title>
+		<path class="st5" d="M166.8-43.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge71">
+		<title>l1n5-&gt;l2n2</title>
+		<path class="st5" d="M158.5-49.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge72">
+		<title>l1n5-&gt;l2n3</title>
+		<path class="st5" d="M160.1-49.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="node19">
+		<title>l3n0</title>
+		<ellipse class="st2" cx="296" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 294.2222 -194.4)" class="st3 st4">l3n0</text>
+	</g>
+	<g id="edge73">
+		<title>l2n0-&gt;l3n0</title>
+		<path class="st5" d="M238.8-151.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node20">
+		<title>l3n1</title>
+		<ellipse class="st2" cx="296" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 294.2222 -140.4)" class="st3 st4">l3n1</text>
+	</g>
+	<g id="edge74">
+		<title>l2n0-&gt;l3n1</title>
+		<path class="st5" d="M242.3-141c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge75">
+		<title>l2n1-&gt;l3n0</title>
+		<path class="st5" d="M234.7-102c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge76">
+		<title>l2n1-&gt;l3n1</title>
+		<path class="st5" d="M238.8-97.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge77">
+		<title>l2n2-&gt;l3n0</title>
+		<path class="st5" d="M238.8-238.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge78">
+		<title>l2n2-&gt;l3n1</title>
+		<path class="st5" d="M234.7-234c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge79">
+		<title>l2n3-&gt;l3n0</title>
+		<path class="st5" d="M242.3-195c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge80">
+		<title>l2n3-&gt;l3n1</title>
+		<path class="st5" d="M238.8-184.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="node21">
+		<title>l4n0</title>
+		<ellipse class="st2" cx="368" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 366.2222 -140.4)" class="st3 st4">l4n0</text>
+	</g>
+	<g id="edge81">
+		<title>l3n0-&gt;l4n0</title>
+		<path class="st5" d="M310.8-184.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="node22">
+		<title>l4n1</title>
+		<ellipse class="st2" cx="368" cy="-87" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 366.2222 -86.4)" class="st3 st4">l4n1</text>
+	</g>
+	<g id="edge82">
+		<title>l3n0-&gt;l4n1</title>
+		<path class="st5" d="M306.7-180c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="node23">
+		<title>l4n2</title>
+		<ellipse class="st2" cx="368" cy="-249" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 366.2222 -248.4)" class="st3 st4">l4n2</text>
+	</g>
+	<g id="edge83">
+		<title>l3n0-&gt;l4n2</title>
+		<path class="st5" d="M310.8-205.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node24">
+		<title>l4n3</title>
+		<ellipse class="st2" cx="368" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 366.2222 -194.4)" class="st3 st4">l4n3</text>
+	</g>
+	<g id="edge84">
+		<title>l3n0-&gt;l4n3</title>
+		<path class="st5" d="M314.3-195c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge85">
+		<title>l3n1-&gt;l4n0</title>
+		<path class="st5" d="M314.3-141c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge86">
+		<title>l3n1-&gt;l4n1</title>
+		<path class="st5" d="M310.8-130.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge87">
+		<title>l3n1-&gt;l4n2</title>
+		<path class="st5" d="M306.7-156c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge88">
+		<title>l3n1-&gt;l4n3</title>
+		<path class="st5" d="M310.8-151.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node25">
+		<title>l5n0</title>
+		<ellipse class="st2" cx="440" cy="-303" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 438.2222 -302.4)" class="st3 st4">l5n0</text>
+	</g>
+	<g id="edge89">
+		<title>l4n0-&gt;l5n0</title>
+		<path class="st5" d="M376.1-157.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="node26">
+		<title>l5n1</title>
+		<ellipse class="st2" cx="440" cy="-249" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 438.2222 -248.4)" class="st3 st4">l5n1</text>
+	</g>
+	<g id="edge90">
+		<title>l4n0-&gt;l5n1</title>
+		<path class="st5" d="M378.7-156c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="node27">
+		<title>l5n2</title>
+		<ellipse class="st2" cx="440" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 438.2222 -194.4)" class="st3 st4">l5n2</text>
+	</g>
+	<g id="edge91">
+		<title>l4n0-&gt;l5n2</title>
+		<path class="st5" d="M382.8-151.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node28">
+		<title>l5n3</title>
+		<ellipse class="st2" cx="440" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 438.2222 -140.4)" class="st3 st4">l5n3</text>
+	</g>
+	<g id="edge92">
+		<title>l4n0-&gt;l5n3</title>
+		<path class="st5" d="M386.3-141c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="node29">
+		<title>l5n4</title>
+		<ellipse class="st2" cx="440" cy="-87" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 438.2222 -86.4)" class="st3 st4">l5n4</text>
+	</g>
+	<g id="edge93">
+		<title>l4n0-&gt;l5n4</title>
+		<path class="st5" d="M382.8-130.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="node30">
+		<title>l5n5</title>
+		<ellipse class="st2" cx="440" cy="-33" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 438.2222 -32.4)" class="st3 st4">l5n5</text>
+	</g>
+	<g id="edge94">
+		<title>l4n0-&gt;l5n5</title>
+		<path class="st5" d="M378.7-126c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge95">
+		<title>l4n1-&gt;l5n0</title>
+		<path class="st5" d="M374.5-103.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge96">
+		<title>l4n1-&gt;l5n1</title>
+		<path class="st5" d="M376.1-103.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge97">
+		<title>l4n1-&gt;l5n2</title>
+		<path class="st5" d="M378.7-102c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge98">
+		<title>l4n1-&gt;l5n3</title>
+		<path class="st5" d="M382.8-97.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge99">
+		<title>l4n1-&gt;l5n4</title>
+		<path class="st5" d="M386.3-87c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge100">
+		<title>l4n1-&gt;l5n5</title>
+		<path class="st5" d="M382.8-76.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge101">
+		<title>l4n2-&gt;l5n0</title>
+		<path class="st5" d="M382.8-259.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge102">
+		<title>l4n2-&gt;l5n1</title>
+		<path class="st5" d="M386.3-249c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge103">
+		<title>l4n2-&gt;l5n2</title>
+		<path class="st5" d="M382.8-238.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge104">
+		<title>l4n2-&gt;l5n3</title>
+		<path class="st5" d="M378.7-234c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge105">
+		<title>l4n2-&gt;l5n4</title>
+		<path class="st5" d="M376.1-232.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge106">
+		<title>l4n2-&gt;l5n5</title>
+		<path class="st5" d="M374.5-232.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="edge107">
+		<title>l4n3-&gt;l5n0</title>
+		<path class="st5" d="M378.7-210c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge108">
+		<title>l4n3-&gt;l5n1</title>
+		<path class="st5" d="M382.8-205.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge109">
+		<title>l4n3-&gt;l5n2</title>
+		<path class="st5" d="M386.3-195c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge110">
+		<title>l4n3-&gt;l5n3</title>
+		<path class="st5" d="M382.8-184.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge111">
+		<title>l4n3-&gt;l5n4</title>
+		<path class="st5" d="M378.7-180c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge112">
+		<title>l4n3-&gt;l5n5</title>
+		<path class="st5" d="M376.1-178.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="node31">
+		<title>l6n0</title>
+		<ellipse class="st2" cx="512" cy="-33" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -32.4)" class="st3 st4">l6n0</text>
+	</g>
+	<g id="edge113">
+		<title>l5n0-&gt;l6n0</title>
+		<path class="st5" d="M445.5-285.7c12.6,48.8,48.5,187,61.1,235.5"/>
+	</g>
+	<g id="node32">
+		<title>l6n1</title>
+		<ellipse class="st2" cx="512" cy="21" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 21.6)" class="st3 st4">l6n1</text>
+	</g>
+	<g id="edge114">
+		<title>l5n0-&gt;l6n1</title>
+		<path class="st5" d="M444.8-285.6C456.9-229.3,495-52.9,507.2,3.5"/>
+	</g>
+	<g id="node33">
+		<title>l6n2</title>
+		<ellipse class="st2" cx="512" cy="-357" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -356.4)" class="st3 st4">l6n2</text>
+	</g>
+	<g id="edge115">
+		<title>l5n0-&gt;l6n2</title>
+		<path class="st5" d="M454.8-313.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="node34">
+		<title>l6n3</title>
+		<ellipse class="st2" cx="512" cy="-303" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -302.4)" class="st3 st4">l6n3</text>
+	</g>
+	<g id="edge116">
+		<title>l5n0-&gt;l6n3</title>
+		<path class="st5" d="M458.3-303c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="node35">
+		<title>l6n4</title>
+		<ellipse class="st2" cx="512" cy="-249" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -248.4)" class="st3 st4">l6n4</text>
+	</g>
+	<g id="edge117">
+		<title>l5n0-&gt;l6n4</title>
+		<path class="st5" d="M454.8-292.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="node36">
+		<title>l6n5</title>
+		<ellipse class="st2" cx="512" cy="-195" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -194.4)" class="st3 st4">l6n5</text>
+	</g>
+	<g id="edge118">
+		<title>l5n0-&gt;l6n5</title>
+		<path class="st5" d="M450.7-288c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="node37">
+		<title>l6n6</title>
+		<ellipse class="st2" cx="512" cy="-141" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -140.4)" class="st3 st4">l6n6</text>
+	</g>
+	<g id="edge119">
+		<title>l5n0-&gt;l6n6</title>
+		<path class="st5" d="M448.1-286.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="node38">
+		<title>l6n7</title>
+		<ellipse class="st2" cx="512" cy="-87" rx="18" ry="18"/>
+		<text transform="matrix(1 0 0 1 510.2222 -86.4)" class="st3 st4">l6n7</text>
+	</g>
+	<g id="edge120">
+		<title>l5n0-&gt;l6n7</title>
+		<path class="st5" d="M446.5-286.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="edge121">
+		<title>l5n1-&gt;l6n0</title>
+		<path class="st5" d="M446.5-232.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="edge122">
+		<title>l5n1-&gt;l6n1</title>
+		<path class="st5" d="M445.5-231.7c12.6,48.8,48.5,187,61.1,235.5"/>
+	</g>
+	<g id="edge123">
+		<title>l5n1-&gt;l6n2</title>
+		<path class="st5" d="M450.7-264c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge124">
+		<title>l5n1-&gt;l6n3</title>
+		<path class="st5" d="M454.8-259.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge125">
+		<title>l5n1-&gt;l6n4</title>
+		<path class="st5" d="M458.3-249c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge126">
+		<title>l5n1-&gt;l6n5</title>
+		<path class="st5" d="M454.8-238.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge127">
+		<title>l5n1-&gt;l6n6</title>
+		<path class="st5" d="M450.7-234c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge128">
+		<title>l5n1-&gt;l6n7</title>
+		<path class="st5" d="M448.1-232.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge129">
+		<title>l5n2-&gt;l6n0</title>
+		<path class="st5" d="M448.1-178.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge130">
+		<title>l5n2-&gt;l6n1</title>
+		<path class="st5" d="M446.5-178.1c13.1,40.4,46,141.9,59,182.2"/>
+	</g>
+	<g id="edge131">
+		<title>l5n2-&gt;l6n2</title>
+		<path class="st5" d="M448.1-211.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge132">
+		<title>l5n2-&gt;l6n3</title>
+		<path class="st5" d="M450.7-210c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge133">
+		<title>l5n2-&gt;l6n4</title>
+		<path class="st5" d="M454.8-205.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge134">
+		<title>l5n2-&gt;l6n5</title>
+		<path class="st5" d="M458.3-195c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge135">
+		<title>l5n2-&gt;l6n6</title>
+		<path class="st5" d="M454.8-184.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge136">
+		<title>l5n2-&gt;l6n7</title>
+		<path class="st5" d="M450.7-180c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge137">
+		<title>l5n3-&gt;l6n0</title>
+		<path class="st5" d="M450.7-126c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge138">
+		<title>l5n3-&gt;l6n1</title>
+		<path class="st5" d="M448.1-124.6c13.4,31.1,42.4,98,55.8,129.1"/>
+	</g>
+	<g id="edge139">
+		<title>l5n3-&gt;l6n2</title>
+		<path class="st5" d="M446.5-157.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge140">
+		<title>l5n3-&gt;l6n3</title>
+		<path class="st5" d="M448.1-157.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge141">
+		<title>l5n3-&gt;l6n4</title>
+		<path class="st5" d="M450.7-156c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge142">
+		<title>l5n3-&gt;l6n5</title>
+		<path class="st5" d="M454.8-151.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge143">
+		<title>l5n3-&gt;l6n6</title>
+		<path class="st5" d="M458.3-141c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge144">
+		<title>l5n3-&gt;l6n7</title>
+		<path class="st5" d="M454.8-130.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge145">
+		<title>l5n4-&gt;l6n0</title>
+		<path class="st5" d="M454.8-76.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge146">
+		<title>l5n4-&gt;l6n1</title>
+		<path class="st5" d="M450.7-72c13.4,20.6,37.3,57.5,50.6,78.1"/>
+	</g>
+	<g id="edge147">
+		<title>l5n4-&gt;l6n2</title>
+		<path class="st5" d="M445.5-104.3c12.6-48.8,48.5-187,61.1-235.5"/>
+	</g>
+	<g id="edge148">
+		<title>l5n4-&gt;l6n3</title>
+		<path class="st5" d="M446.5-103.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge149">
+		<title>l5n4-&gt;l6n4</title>
+		<path class="st5" d="M448.1-103.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge150">
+		<title>l5n4-&gt;l6n5</title>
+		<path class="st5" d="M450.7-102c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge151">
+		<title>l5n4-&gt;l6n6</title>
+		<path class="st5" d="M454.8-97.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+	<g id="edge152">
+		<title>l5n4-&gt;l6n7</title>
+		<path class="st5" d="M458.3-87c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge153">
+		<title>l5n5-&gt;l6n0</title>
+		<path class="st5" d="M458.3-33c10.9,0,24.8,0,35.6,0"/>
+	</g>
+	<g id="edge154">
+		<title>l5n5-&gt;l6n1</title>
+		<path class="st5" d="M454.8-22.3c12.3,9.5,30.1,23.2,42.4,32.7"/>
+	</g>
+	<g id="edge155">
+		<title>l5n5-&gt;l6n2</title>
+		<path class="st5" d="M444.8-50.4c12.2-56.3,50.3-232.7,62.5-289.1"/>
+	</g>
+	<g id="edge156">
+		<title>l5n5-&gt;l6n3</title>
+		<path class="st5" d="M445.5-50.3c12.6-48.8,48.5-187,61.1-235.5"/>
+	</g>
+	<g id="edge157">
+		<title>l5n5-&gt;l6n4</title>
+		<path class="st5" d="M446.5-49.9c13.1-40.4,46-141.9,59-182.2"/>
+	</g>
+	<g id="edge158">
+		<title>l5n5-&gt;l6n5</title>
+		<path class="st5" d="M448.1-49.4c13.4-31.1,42.4-98,55.8-129.1"/>
+	</g>
+	<g id="edge159">
+		<title>l5n5-&gt;l6n6</title>
+		<path class="st5" d="M450.7-48c13.4-20.6,37.3-57.5,50.6-78.1"/>
+	</g>
+	<g id="edge160">
+		<title>l5n5-&gt;l6n7</title>
+		<path class="st5" d="M454.8-43.7c12.3-9.5,30.1-23.2,42.4-32.7"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 148.3335 22.3332)" class="st6 st7">Encoder(x)</text>
+<text transform="matrix(1 0 0 1 394.667 22.3332)" class="st6 st7">Decoder(Encoder(x))</text>
+<text transform="matrix(1 0 0 1 266.0997 151.0002)" class="st6 st7">Feature Vector</text>
+<line class="st8" x1="299.2" y1="154.1" x2="299.2" y2="196"/>
+<text transform="matrix(1 0 0 1 38.3333 251.9278)" class="st6 st7">Input</text>
+<text transform="matrix(1 0 0 1 529.3334 251.9279)" class="st6 st7">Output</text>
+</svg>
