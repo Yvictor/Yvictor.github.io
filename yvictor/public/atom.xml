@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yvictor</title>
+  <icon>https://www.gravatar.com/avatar/7184467c93599e20ee516c3afa8223f7</icon>
+  
+  <link href="https://blog.yvictor.ml/atom.xml" rel="self"/>
+  
+  <link href="https://blog.yvictor.ml/"/>
+  <updated>2023-03-05T12:26:50.452Z</updated>
+  <id>https://blog.yvictor.ml/</id>
+  
+  <author>
+    <name>Yvictor</name>
+    <email>yvictor3141@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>試試寫寫 code 來點 rust</title>
+    <link href="https://blog.yvictor.ml/2023/03/05/70ba6e84ffde/"/>
+    <id>https://blog.yvictor.ml/2023/03/05/70ba6e84ffde/</id>
+    <published>2023-03-05T11:56:13.000Z</published>
+    <updated>2023-03-05T12:26:50.452Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Rust 是一個現代的系統程式語言，具有高效的性能和強大的安全性。在 Rust 的設計中，強調的是安全性和可靠性，這使得 Rust 成為了很多領域的選擇，如區塊鏈、WebAssembly 等等。在這篇文章中，我們將嘗試用 Rust 編寫一些簡單的程式碼，了解一下 Rust</summary>
+        
+      
+    
+    
+    
+    
+    <category term="code" scheme="https://blog.yvictor.ml/tags/code/"/>
+    
+    <category term="rust" scheme="https://blog.yvictor.ml/tags/rust/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 SolidJS、Macaron 和 Ionic 打造我的第一個手機應用程式</title>
+    <link href="https://blog.yvictor.ml/2023/03/05/4b8da00d723c/"/>
+    <id>https://blog.yvictor.ml/2023/03/05/4b8da00d723c/</id>
+    <published>2023-03-05T11:44:03.000Z</published>
+    <updated>2023-03-05T11:49:06.914Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近我花了不少時間來學習 SolidJS、Macaron 和 Ionic。這些技術分別用於構建 Web UI、CSS-in-JS</summary>
+        
+      
+    
+    
+    
+    <category term="app" scheme="https://blog.yvictor.ml/categories/app/"/>
+    
+    
+    <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
+    
+    <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
+    
+    <category term="mobile" scheme="https://blog.yvictor.ml/tags/mobile/"/>
+    
+    <category term="mobile app" scheme="https://blog.yvictor.ml/tags/mobile-app/"/>
+    
+    <category term="ionic" scheme="https://blog.yvictor.ml/tags/ionic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SolidJS：一個令人愉悅的前端框架</title>
+    <link href="https://blog.yvictor.ml/2023/03/05/36c6b106669c/"/>
+    <id>https://blog.yvictor.ml/2023/03/05/36c6b106669c/</id>
+    <published>2023-03-05T11:38:10.000Z</published>
+    <updated>2023-03-05T11:49:13.813Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Solid.js 是一個新興的 JavaScript 框架，它的目標是提供一個高效且易於使用的方式來創建 Web 和手機應用程序。最近，我開始學習 Solid.js</summary>
+        
+      
+    
+    
+    
+    
+    <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
+    
+    <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>為了 typography 主題暫時選了 hexo</title>
+    <link href="https://blog.yvictor.ml/2023/03/05/ce74d0f47d3d/"/>
+    <id>https://blog.yvictor.ml/2023/03/05/ce74d0f47d3d/</id>
+    <published>2023-03-05T11:24:25.000Z</published>
+    <updated>2023-03-05T11:31:23.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我終於開始我的 Blog 了！雖然我之前也試了其他的部落格框架，但最後還是為了 Typography 主題暫時選了</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
