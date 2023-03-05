@@ -1,3 +1,7 @@
 [submodule "slides/reveal.js"]
 	path = slides/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+
+[submodule "yvictor/themes/typography"]
+	path = yvictor/themes/typography
+	url = https://github.com/Yvictor/hexo-theme-typography.git
