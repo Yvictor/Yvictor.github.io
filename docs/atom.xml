@@ -6,7 +6,7 @@
   <link href="https://blog.yvictor.ml/atom.xml" rel="self"/>
   
   <link href="https://blog.yvictor.ml/"/>
-  <updated>2023-03-05T12:26:50.452Z</updated>
+  <updated>2024-06-06T07:35:39.706Z</updated>
   <id>https://blog.yvictor.ml/</id>
   
   <author>
@@ -17,11 +17,112 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>擁抱未來：為什麼你應該從 Pandas 轉換到 Polars</title>
+    <link href="https://blog.yvictor.ml/2024/06/06/5131c0901be2/"/>
+    <id>https://blog.yvictor.ml/2024/06/06/5131c0901be2/</id>
+    <published>2024-06-06T06:43:39.000Z</published>
+    <updated>2024-06-06T07:35:39.706Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在不斷演變的數據分析世界中，提供高效、快速和易用性的工具至關重要。雖然多年来 Pandas 一直是 Python 中數據操作的首選庫，但現在是考慮一個強大替代方案的時候了：Polars。Polars</summary>
+        
+      
+    
+    
+    
+    
+    <category term="code" scheme="https://blog.yvictor.ml/tags/code/"/>
+    
+    <category term="rust" scheme="https://blog.yvictor.ml/tags/rust/"/>
+    
+    <category term="python" scheme="https://blog.yvictor.ml/tags/python/"/>
+    
+    <category term="polars" scheme="https://blog.yvictor.ml/tags/polars/"/>
+    
+    <category term="pyo3" scheme="https://blog.yvictor.ml/tags/pyo3/"/>
+    
+    <category term="ta-lib" scheme="https://blog.yvictor.ml/tags/ta-lib/"/>
+    
+    <category term="polars-extension" scheme="https://blog.yvictor.ml/tags/polars-extension/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Polars Rust Expression Extension 開發：串接 ta-lib 讓指標瞬間多核平行化運算</title>
+    <link href="https://blog.yvictor.ml/2024/02/08/49efc46d0120/"/>
+    <id>https://blog.yvictor.ml/2024/02/08/49efc46d0120/</id>
+    <published>2024-02-08T10:26:04.000Z</published>
+    <updated>2024-06-06T06:37:14.656Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;這篇文算是記錄一下，去年 PyCon 分享完 Polars 後，有一個比較難的環節，當時就沒有特別提，加上那時候 Polars extension 的 api 還沒有完全 expose，去年底發現這部分已經很完整了，我就決定要來寫這個我想做很久的</summary>
+        
+      
+    
+    
+    
+    
+    <category term="code" scheme="https://blog.yvictor.ml/tags/code/"/>
+    
+    <category term="rust" scheme="https://blog.yvictor.ml/tags/rust/"/>
+    
+    <category term="python" scheme="https://blog.yvictor.ml/tags/python/"/>
+    
+    <category term="polars" scheme="https://blog.yvictor.ml/tags/polars/"/>
+    
+    <category term="pyo3" scheme="https://blog.yvictor.ml/tags/pyo3/"/>
+    
+    <category term="ta-lib" scheme="https://blog.yvictor.ml/tags/ta-lib/"/>
+    
+    <category term="polars-extension" scheme="https://blog.yvictor.ml/tags/polars-extension/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何建立一個具備可測試性的 Python 交易 package 使用 Shioaji (Part 1)</title>
+    <link href="https://blog.yvictor.ml/2023/06/01/4c0e88a7766e/"/>
+    <id>https://blog.yvictor.ml/2023/06/01/4c0e88a7766e/</id>
+    <published>2023-06-01T15:13:53.000Z</published>
+    <updated>2024-06-06T06:37:14.656Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;因為是第一篇所以先簡單介紹一下台灣第一套可以跨平台的金融交易 API solution，Shioaji 目前主要語言為</summary>
+        
+      
+    
+    
+    
+    <category term="shioaji" scheme="https://blog.yvictor.ml/categories/shioaji/"/>
+    
+    
+    <category term="python" scheme="https://blog.yvictor.ml/tags/python/"/>
+    
+    <category term="trading" scheme="https://blog.yvictor.ml/tags/trading/"/>
+    
+    <category term="shioaji" scheme="https://blog.yvictor.ml/tags/shioaji/"/>
+    
+    <category term="pytest" scheme="https://blog.yvictor.ml/tags/pytest/"/>
+    
+  </entry>
+  
+  <entry>
     <title>試試寫寫 code 來點 rust</title>
     <link href="https://blog.yvictor.ml/2023/03/05/70ba6e84ffde/"/>
     <id>https://blog.yvictor.ml/2023/03/05/70ba6e84ffde/</id>
     <published>2023-03-05T11:56:13.000Z</published>
-    <updated>2023-03-05T12:26:50.452Z</updated>
+    <updated>2024-06-06T06:37:14.656Z</updated>
     
     
       
@@ -46,7 +147,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/4b8da00d723c/"/>
     <id>https://blog.yvictor.ml/2023/03/05/4b8da00d723c/</id>
     <published>2023-03-05T11:44:03.000Z</published>
-    <updated>2023-03-05T11:49:06.914Z</updated>
+    <updated>2024-06-06T06:37:14.656Z</updated>
     
     
       
@@ -62,9 +163,9 @@
     <category term="app" scheme="https://blog.yvictor.ml/categories/app/"/>
     
     
-    <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
-    
     <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
+    
+    <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
     
     <category term="mobile" scheme="https://blog.yvictor.ml/tags/mobile/"/>
     
@@ -79,7 +180,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/36c6b106669c/"/>
     <id>https://blog.yvictor.ml/2023/03/05/36c6b106669c/</id>
     <published>2023-03-05T11:38:10.000Z</published>
-    <updated>2023-03-05T11:49:13.813Z</updated>
+    <updated>2024-06-06T06:37:14.656Z</updated>
     
     
       
@@ -93,9 +194,9 @@
     
     
     
-    <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
-    
     <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
+    
+    <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
     
   </entry>
   
@@ -104,7 +205,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/ce74d0f47d3d/"/>
     <id>https://blog.yvictor.ml/2023/03/05/ce74d0f47d3d/</id>
     <published>2023-03-05T11:24:25.000Z</published>
-    <updated>2023-03-05T11:31:23.003Z</updated>
+    <updated>2024-06-06T06:37:14.656Z</updated>
     
     
       
