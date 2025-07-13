@@ -6,7 +6,7 @@
   <link href="https://blog.yvictor.ml/atom.xml" rel="self"/>
   
   <link href="https://blog.yvictor.ml/"/>
-  <updated>2024-12-06T09:33:22.079Z</updated>
+  <updated>2025-07-13T12:35:45.174Z</updated>
   <id>https://blog.yvictor.ml/</id>
   
   <author>
@@ -17,11 +17,52 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>rsolace 的進化：一次關於 Rust FFI、異步與記憶體安全的深度實踐</title>
+    <link href="https://blog.yvictor.ml/2025/07/13/410120e2c8a8/"/>
+    <id>https://blog.yvictor.ml/2025/07/13/410120e2c8a8/</id>
+    <published>2025-07-13T12:34:53.000Z</published>
+    <updated>2025-07-13T12:35:45.174Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;開發一個高品質的 Rust 函式庫，尤其是當它需要與現有的 C 函式庫進行深度互動（FFI）時，往往是一條充滿挑戰的道路。在過去一週，我為 &lt;code&gt;rsolace&lt;/code&gt;（一個 Solace PubSub+ 的 Rust</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Rust" scheme="https://blog.yvictor.ml/tags/Rust/"/>
+    
+    <category term="rsolace" scheme="https://blog.yvictor.ml/tags/rsolace/"/>
+    
+    <category term="Solace" scheme="https://blog.yvictor.ml/tags/Solace/"/>
+    
+    <category term="CI/CD" scheme="https://blog.yvictor.ml/tags/CI-CD/"/>
+    
+    <category term="FFI" scheme="https://blog.yvictor.ml/tags/FFI/"/>
+    
+    <category term="Pin" scheme="https://blog.yvictor.ml/tags/Pin/"/>
+    
+    <category term="async/await" scheme="https://blog.yvictor.ml/tags/async-await/"/>
+    
+    <category term="tokio" scheme="https://blog.yvictor.ml/tags/tokio/"/>
+    
+    <category term="channel" scheme="https://blog.yvictor.ml/tags/channel/"/>
+    
+    <category term="DashMap" scheme="https://blog.yvictor.ml/tags/DashMap/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一天內發佈一個解析舊有金融系統網路二進位資料的 Rust Crate</title>
     <link href="https://blog.yvictor.ml/2024/12/06/c4d617adf20d/"/>
     <id>https://blog.yvictor.ml/2024/12/06/c4d617adf20d/</id>
     <published>2024-12-06T09:22:32.000Z</published>
-    <updated>2024-12-06T09:33:22.079Z</updated>
+    <updated>2025-07-13T11:49:27.802Z</updated>
     
     
       
@@ -46,7 +87,7 @@
     <link href="https://blog.yvictor.ml/2024/06/06/5131c0901be2/"/>
     <id>https://blog.yvictor.ml/2024/06/06/5131c0901be2/</id>
     <published>2024-06-06T06:43:39.000Z</published>
-    <updated>2024-06-06T07:35:39.706Z</updated>
+    <updated>2025-07-13T11:49:27.802Z</updated>
     
     
       
@@ -81,7 +122,7 @@
     <link href="https://blog.yvictor.ml/2024/02/08/49efc46d0120/"/>
     <id>https://blog.yvictor.ml/2024/02/08/49efc46d0120/</id>
     <published>2024-02-08T10:26:04.000Z</published>
-    <updated>2024-06-06T06:37:14.656Z</updated>
+    <updated>2024-02-08T11:07:27.514Z</updated>
     
     
       
@@ -116,7 +157,7 @@
     <link href="https://blog.yvictor.ml/2023/06/01/4c0e88a7766e/"/>
     <id>https://blog.yvictor.ml/2023/06/01/4c0e88a7766e/</id>
     <published>2023-06-01T15:13:53.000Z</published>
-    <updated>2024-06-06T06:37:14.656Z</updated>
+    <updated>2023-06-01T16:18:55.883Z</updated>
     
     
       
@@ -132,9 +173,9 @@
     <category term="shioaji" scheme="https://blog.yvictor.ml/categories/shioaji/"/>
     
     
-    <category term="python" scheme="https://blog.yvictor.ml/tags/python/"/>
-    
     <category term="trading" scheme="https://blog.yvictor.ml/tags/trading/"/>
+    
+    <category term="python" scheme="https://blog.yvictor.ml/tags/python/"/>
     
     <category term="shioaji" scheme="https://blog.yvictor.ml/tags/shioaji/"/>
     
@@ -147,7 +188,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/70ba6e84ffde/"/>
     <id>https://blog.yvictor.ml/2023/03/05/70ba6e84ffde/</id>
     <published>2023-03-05T11:56:13.000Z</published>
-    <updated>2024-06-06T06:37:14.656Z</updated>
+    <updated>2023-03-05T12:26:50.452Z</updated>
     
     
       
@@ -172,7 +213,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/4b8da00d723c/"/>
     <id>https://blog.yvictor.ml/2023/03/05/4b8da00d723c/</id>
     <published>2023-03-05T11:44:03.000Z</published>
-    <updated>2024-06-06T06:37:14.656Z</updated>
+    <updated>2023-03-05T11:49:06.914Z</updated>
     
     
       
@@ -188,9 +229,9 @@
     <category term="app" scheme="https://blog.yvictor.ml/categories/app/"/>
     
     
-    <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
-    
     <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
+    
+    <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
     
     <category term="mobile" scheme="https://blog.yvictor.ml/tags/mobile/"/>
     
@@ -205,7 +246,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/36c6b106669c/"/>
     <id>https://blog.yvictor.ml/2023/03/05/36c6b106669c/</id>
     <published>2023-03-05T11:38:10.000Z</published>
-    <updated>2024-06-06T06:37:14.656Z</updated>
+    <updated>2023-03-05T11:49:13.813Z</updated>
     
     
       
@@ -219,9 +260,9 @@
     
     
     
-    <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
-    
     <category term="solid.js" scheme="https://blog.yvictor.ml/tags/solid-js/"/>
+    
+    <category term="frontend" scheme="https://blog.yvictor.ml/tags/frontend/"/>
     
   </entry>
   
@@ -230,7 +271,7 @@
     <link href="https://blog.yvictor.ml/2023/03/05/ce74d0f47d3d/"/>
     <id>https://blog.yvictor.ml/2023/03/05/ce74d0f47d3d/</id>
     <published>2023-03-05T11:24:25.000Z</published>
-    <updated>2024-06-06T06:37:14.656Z</updated>
+    <updated>2023-03-05T11:31:23.003Z</updated>
     
     
       
